@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994792664006",
+    "project_id": "pro-plus-task",
+    "storage_bucket": "pro-plus-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994792664006:android:350d7258a4bef60335e0c7",
+        "android_client_info": {
+          "package_name": "com.example.proplus_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrGYXOTVarYoOusE7Oyt8HPdh9ZEzvFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
